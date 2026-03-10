@@ -1,0 +1,14 @@
+{
+  "name": "@kyles-openclaw/agent-runtime",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./src/index.ts",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@kyles-openclaw/shared": "workspace:*",
+    "@kyles-openclaw/context-engine": "workspace:*",
+    "@kyles-openclaw/memory": "workspace:*"
+  }
+}

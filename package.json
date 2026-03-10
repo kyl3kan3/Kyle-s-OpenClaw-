@@ -1,0 +1,19 @@
+{
+  "name": "kyles-openclaw",
+  "version": "0.1.0",
+  "private": true,
+  "description": "OpenClaw-inspired AI agent framework with an amazing context engine",
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm --filter @kyles-openclaw/cli dev",
+    "start": "pnpm --filter @kyles-openclaw/cli start",
+    "check": "pnpm -r typecheck",
+    "test": "pnpm -r test",
+    "clean": "pnpm -r clean"
+  }
+}

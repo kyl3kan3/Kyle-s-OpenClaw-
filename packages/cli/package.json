@@ -1,0 +1,21 @@
+{
+  "name": "@kyles-openclaw/cli",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./src/index.ts",
+  "bin": {
+    "kyles-openclaw": "./src/index.ts"
+  },
+  "scripts": {
+    "dev": "node --import tsx src/index.ts",
+    "start": "node dist/index.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@kyles-openclaw/shared": "workspace:*",
+    "@kyles-openclaw/context-engine": "workspace:*",
+    "@kyles-openclaw/memory": "workspace:*",
+    "@kyles-openclaw/agent-runtime": "workspace:*",
+    "@kyles-openclaw/gateway": "workspace:*"
+  }
+}

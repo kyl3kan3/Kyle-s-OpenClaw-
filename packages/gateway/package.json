@@ -1,0 +1,13 @@
+{
+  "name": "@kyles-openclaw/gateway",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./src/index.ts",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@kyles-openclaw/shared": "workspace:*",
+    "@kyles-openclaw/agent-runtime": "workspace:*"
+  }
+}

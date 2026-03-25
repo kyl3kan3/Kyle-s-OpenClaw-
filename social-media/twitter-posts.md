@@ -2,6 +2,8 @@
 
 Use these templates as-is or customize them. Replace [brackets] with your own details.
 
+**App Store Link:** https://apps.apple.com/us/app/projectadulting/id6751470634
+
 ---
 
 ## Launch & Awareness
@@ -11,7 +13,7 @@ Nobody taught us how to do taxes, build credit, or cook a real meal.
 
 That's why we built ProjectAdulting — the app that teaches you the life skills school forgot.
 
-Download now: [link]
+Download now: https://apps.apple.com/us/app/projectadulting/id6751470634
 
 #ProjectAdulting #Adulting101 #LifeSkills
 
@@ -24,7 +26,7 @@ ProjectAdulting IS the manual.
 
 Budgeting. Cooking. Taxes. Renting. All in one app.
 
-[link]
+https://apps.apple.com/us/app/projectadulting/id6751470634
 
 ---
 
@@ -65,7 +67,7 @@ ProjectAdulting Tip #[number]:
 
 [Insert a short, actionable tip, e.g. "The 50/30/20 rule: 50% needs, 30% wants, 20% savings. Start tracking today."]
 
-More tips like this in the app: [link]
+More tips like this in the app: https://apps.apple.com/us/app/projectadulting/id6751470634
 
 ---
 
@@ -74,14 +76,14 @@ More tips like this in the app: [link]
 **Post 7 — User Milestone**
 [X] people have started their adulting journey with ProjectAdulting this week.
 
-Join them: [link]
+Join them: https://apps.apple.com/us/app/projectadulting/id6751470634
 
 ---
 
 **Post 8 — Testimonial**
 "I finally understand how credit scores work thanks to ProjectAdulting." — [User/Name]
 
-Real skills. Real confidence. Download free: [link]
+Real skills. Real confidence. Download free: https://apps.apple.com/us/app/projectadulting/id6751470634
 
 ---
 
@@ -92,7 +94,7 @@ Tax season is here and you're Googling "how to file taxes" again?
 
 ProjectAdulting walks you through it step by step. No jargon. No stress.
 
-[link] #TaxSeason #Adulting
+https://apps.apple.com/us/app/projectadulting/id6751470634 #TaxSeason #Adulting
 
 ---
 
@@ -101,7 +103,7 @@ New year, new adulting skills.
 
 This year, learn to budget, cook, and handle your finances like a pro.
 
-Start free with ProjectAdulting: [link]
+Start free with ProjectAdulting: https://apps.apple.com/us/app/projectadulting/id6751470634
 
 ---
 
@@ -129,6 +131,6 @@ A thread on what they missed (and how to learn it now):
 
 6/ Stop winging it. Start learning it.
 
-Download ProjectAdulting: [link]
+Download ProjectAdulting: https://apps.apple.com/us/app/projectadulting/id6751470634
 
 #Adulting101 #LifeSkills #ProjectAdulting

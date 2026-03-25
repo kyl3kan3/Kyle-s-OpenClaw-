@@ -2,6 +2,8 @@
 
 Use these as captions for your posts, reels, and carousels. Pair with relevant visuals.
 
+**App Store Link:** https://apps.apple.com/us/app/projectadulting/id6751470634
+
 ---
 
 ## Feed Posts

@@ -2,6 +2,8 @@
 
 Reddit values authenticity and genuine conversation. These templates are written to fit Reddit's community-first culture. Avoid sounding like ads — focus on providing value.
 
+**App Store Link:** https://apps.apple.com/us/app/projectadulting/id6751470634
+
 ---
 
 ## Subreddit Targets
